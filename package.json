@@ -1,0 +1,14 @@
+{
+  "name": "multiplayer-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple browser multiplayer game using Node.js and WebSockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
